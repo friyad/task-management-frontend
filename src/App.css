@@ -1,38 +1,35 @@
 .App {
   text-align: center;
+  height: 100vh;
+  margin: 0; 
+  padding: 0; 
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+@media (min-width:600px){
+  .css-15j2ewu{
+    margin-left:24px;
+    margin-right: 0px !important;
+    width:calc(100% - 240px);}
+}
+.css-ckhlm2-MuiTabs-root{
+  margin-bottom: 0!important;
 }
 
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
+.triangle-up {
+	width: 0;
+	height: 0;
+	border-left: 45px solid transparent;
+	border-top: 45px solid transparent;
+	border-bottom: 45px solid #2e2e38;
+  position: absolute;
+  bottom: 0;
+  right: 0;
+}
+.css-15v22id-MuiAccordionDetails-root{
+  padding: 0px!important;  
 }
 
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
-}
-
-.App-link {
-  color: #61dafb;
-}
-
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+.css-14yr603-MuiStepContent-root{
+  margin: 0!important;
+  padding: 0!important;
 }

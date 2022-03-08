@@ -1,0 +1,185 @@
+[
+    {
+        "id": 1,
+        "title": "Perform other audit procedures",
+        "tasks": [
+            {
+                "_id": 100,
+                "type": "OST",
+                "discription": "Hello sldkjfl sdflsdfjksit amet consectetur adipisicing elit. Sit fugit impedit saepe autem blanditiis omnis debitis facere, eaque ab ratione nesciunt adipisci enim amet illo possimus perspiciatis voluptatum perferendis tempora asperiores iusto nostrum sapiente! Temporibus eligendi amet iure ipsam perferendis.",
+                "date": "11/09/2020",
+                "customizeDiscription": "01 When the strategy is to rely on It processes, evaluate the results of tests of ITGCs or IT substantive procedures and make IT evaluations. Conclude on the operating effectiveness of ITGCs, based on the results of our tests of controls (ITGC reliance strategy only).\n                Consider the results of the IT-substantive testing when evaluating IT processes when we have performed IT-substantive procedures to address a risk related to an IT process. Perform the following evaluations: Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsa et laboriosam ducimus itaque cupiditate similique necessitatibus omnis natus nisi quo. Cumque nihil temporibus adipisci iure dolore officiis veritatis eos facere?\n                "
+            },
+            {
+                "_id": 200,
+                "type": "OST",
+                "discription": "I am Here akdsj;lsdjf amet consectetur adipisicing elit. Sit fugit impedit saepe autem blanditiis omnis debitis facere, eaque ab ratione nesciunt adipisci enim amet illo possimus perspiciatis voluptatum perferendis tempora asperiores iusto nostrum sapiente! Temporibus eligendi amet iure ipsam perferendis.",
+                "date": "11/09/2020",
+                "customizeDiscription": "02 When the strategy is to rely on It processes, evaluate the results of tests of ITGCs or IT substantive procedures and make IT evaluations. Conclude on the operating effectiveness of ITGCs, based on the results of our tests of controls (ITGC reliance strategy only).\n                Consider the results of the IT-substantive testing when evaluating IT processes when we have performed IT-substantive procedures to address a risk related to an IT process. Perform the following evaluations: Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsa et laboriosam ducimus itaque cupiditate similique necessitatibus omnis natus nisi quo. Cumque nihil temporibus adipisci iure dolore officiis veritatis eos facere?\n                "
+            },
+            {
+                "_id": 300,
+                "type": "OST",
+                "discription": "How are you slkf;lsdjf sdjlf;amet consectetur adipisicing elit. Sit fugit impedit saepe autem blanditiis omnis debitis facere, eaque ab ratione nesciunt adipisci enim amet illo possimus perspiciatis voluptatum perferendis tempora asperiores iusto nostrum sapiente! Temporibus eligendi amet iure ipsam perferendis.",
+                "date": "11/09/2020",
+                "customizeDiscription": "03 When the strategy is to rely on It processes, evaluate the results of tests of ITGCs or IT substantive procedures and make IT evaluations. Conclude on the operating effectiveness of ITGCs, based on the results of our tests of controls (ITGC reliance strategy only).\n                Consider the results of the IT-substantive testing when evaluating IT processes when we have performed IT-substantive procedures to address a risk related to an IT process. Perform the following evaluations: Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsa et laboriosam ducimus itaque cupiditate similique necessitatibus omnis natus nisi quo. Cumque nihil temporibus adipisci iure dolore officiis veritatis eos facere?\n                "
+            },
+            {
+                "_id": 400,
+                "type": "OST",
+                "discription": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Sit fugit impedit saepe autem blanditiis omnis debitis facere, eaque ab ratione nesciunt adipisci enim amet illo possimus perspiciatis voluptatum perferendis tempora asperiores iusto nostrum sapiente! Temporibus eligendi amet iure ipsam perferendis.",
+                "date": "11/09/2020",
+                "customizeDiscription": "When the strategy is to rely on It processes, evaluate the results of tests of ITGCs or IT substantive procedures and make IT evaluations. Conclude on the operating effectiveness of ITGCs, based on the results of our tests of controls (ITGC reliance strategy only).\n                Consider the results of the IT-substantive testing when evaluating IT processes when we have performed IT-substantive procedures to address a risk related to an IT process. Perform the following evaluations: Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsa et laboriosam ducimus itaque cupiditate similique necessitatibus omnis natus nisi quo. Cumque nihil temporibus adipisci iure dolore officiis veritatis eos facere?\n                "
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "title": "Test entity-level controls",
+        "tasks": [
+            {
+                "_id": 100,
+                "type": "OST",
+                "discription": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Sit fugit impedit saepe autem blanditiis omnis debitis facere, eaque ab ratione nesciunt adipisci enim amet illo possimus perspiciatis voempora asperiores iusto nostrum sapiente! Temporibus eligendi amet iure ipsam perferendis.",
+                "date": "11/09/2020",
+                "customizeDiscription": "When the strategy is to rely on It processes, evaluate the results of tests of ITGCs or IT substantive procedures and make IT evaluations. Conclude on the operating effectiveness of ITGCs, based on the results of our tests of controls (ITGC reliance strategy only).\n                Consider the results of the IT-substantive testing when evaluating IT processes when we have performed IT-substantive procedures to address a risk related to an IT process. Perform the following evaluations: Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsa et laboriosam ducimus itaque cupiditate similique necessitatibus omnis natus nisi quo. Cumque nihil temporibus adipisci iure dolore officiis veritatis eos facere?\n                "
+            },
+            {
+                "_id": 200,
+                "type": "OST",
+                "discription": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Sit fugit impedit saepe autem blanditiis oab ratione nesciunt adipisci enim amet illo possimus perspiciatis voluptatum perferendis tempora asperiores iusto nostrum sapiente! Temporibus eligendi amet iure ipsam perferendis.",
+                "date": "11/09/2020",
+                "customizeDiscription": "When the strategy is to rely on It processes, evaluate the results of tests of ITGCs or IT substantive procedures and make IT evaluations. Conclude on the operating effectiveness of ITGCs, based on the results of our tests of controls (ITGC reliance strategy only).\n                Consider the results of the IT-substantive testing when evaluating IT processes when we have performed IT-substantive procedures to address a risk related to an IT process. Perform the following evaluations: Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsa et laboriosam ducimus itaque cupiditate similique necessitatibus omnis natus nisi quo. Cumque nihil temporibus adipisci iure dolore officiis veritatis eos facere?\n                "
+            },
+            {
+                "_id": 300,
+                "type": "OST",
+                "discription": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Sit fugit impedit saepe autem blanditiis omnis debitis facere, eaqores iusto nostrum sapiente! Temporibus eligendi amet iure ipsam perferendis.",
+                "date": "11/09/2020",
+                "customizeDiscription": "When the strategy is to rely on It processes, evaluate the results of tests of ITGCs or IT substantive procedures and make IT evaluations. Conclude on the operating effectiveness of ITGCs, based on the results of our tests of controls (ITGC reliance strategy only).\n                Consider the results of the IT-substantive testing when evaluating IT processes when we have performed IT-substantive procedures to address a risk related to an IT process. Perform the following evaluations: Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsa et laboriosam ducimus itaque cupiditate similique necessitatibus omnis natus nisi quo. Cumque nihil temporibus adipisci iure dolore officiis veritatis eos facere?\n                "
+            },
+            {
+                "_id": 400,
+                "type": "OST",
+                "discription": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Sit fugit impedit saepe autem blanditiis facere, eaque ab ratione nesciunt adipisci enim amet illo possimus perspiciatis voluptatum perferendis tempora asperiores iusto nostrum sapiente! Temporibus eligendi amet iure ipsam perferendis.",
+                "date": "11/09/2020",
+                "customizeDiscription": "When the strategy is to rely on It processes, evaluate the results of tests of ITGCs or IT substantive procedures and make IT evaluations. Conclude on the operating effectiveness of ITGCs, based on the results of our tests of controls (ITGC reliance strategy only).\n                Consider the results of the IT-substantive testing when evaluating IT processes when we have performed IT-substantive procedures to address a risk related to an IT process. Perform the following evaluations: Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsa et laboriosam ducimus itaque cupiditate similique necessitatibus omnis natus nisi quo. Cumque nihil temporibus adipisci iure dolore officiis veritatis eos facere?\n                "
+            },
+            {
+                "_id": 500,
+                "type": "OST",
+                "discription": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Sit fugit impedit saepe autem blanditiis omnis debitis facere, eaqores iusto npiente! Temporibus eligendi amet iure ipsam perferendis.",
+                "date": "11/09/2020",
+                "customizeDiscription": "When the strategy is to rely on It processes, evaluate the results of tests of ITGCs or IT substantive procedures and make IT evaluations. Conclude on the operating effectiveness of ITGCs, based on the results of our tests of controls (ITGC reliance strategy only).\n                Consider the results of the IT-substantive testing when evaluating IT processes when we have performed IT-substantive procedures to address a risk related to an IT process. Perform the following evaluations: Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsa et laboriosam ducimus itaque cupiditate similique necessitatibus omnis natus nisi quo. Cumque nihil temporibus adipisci iure dolore officiis veritatis eos facere?\n                "
+            },
+            {
+                "_id": 600,
+                "type": "OST",
+                "discription": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Sit fugit impedit saepe autem blanditiis facere, eaque ab ratione nesciunt ato nostrum sapiente! emporibus eligendi amet iure ipsam perferendis.",
+                "date": "11/09/2020",
+                "customizeDiscription": "When the strategy is to rely on It processes, evaluate the results of tests of ITGCs or IT substantive procedures and make IT evaluations. Conclude on the operating effectiveness of ITGCs, based on the results of our tests of controls (ITGC reliance strategy only).\n                Consider the results of the IT-substantive testing when evaluating IT processes when we have performed IT-substantive procedures to address a risk related to an IT process. Perform the following evaluations: Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsa et laboriosam ducimus itaque cupiditate similique necessitatibus omnis natus nisi quo. Cumque nihil temporibus adipisci iure dolore officiis veritatis eos facere?\n                "
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "title": "Evaluate IT processes",
+        "tasks": [
+            {
+                "_id": 100,
+                "type": "OST",
+                "discription": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Sit fugit impedit saepe autem blanditiis omnis debitis facere, eaqores iusto nostrum sapiente! Temporibus eligendi amet iure ipsam perferendis.",
+                "date": "11/09/2020",
+                "customizeDiscription": "When the strategy is to rely on It processes, evaluate the results of tests of ITGCs or IT substantive procedures and make IT evaluations. Conclude on the operating effectiveness of ITGCs, based on the results of our tests of controls (ITGC reliance strategy only).\n                Consider the results of the IT-substantive testing when evaluating IT processes when we have performed IT-substantive procedures to address a risk related to an IT process. Perform the following evaluations: Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsa et laboriosam ducimus itaque cupiditate similique necessitatibus omnis natus nisi quo. Cumque nihil temporibus adipisci iure dolore officiis veritatis eos facere?\n                "
+            },
+            {
+                "_id": 200,
+                "type": "OST",
+                "discription": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Sit fugit impedit saepe autem blanditiis facere, eaque ab ratione nesciunt adipisci enim amet illo possimus perspiciatis voluptatum perferendis tempora asperiores iusto nostrum sapiente! Temporibus eligendi amet iure ipsam perferendis.",
+                "date": "11/09/2020",
+                "customizeDiscription": "When the strategy is to rely on It processes, evaluate the results of tests of ITGCs or IT substantive procedures and make IT evaluations. Conclude on the operating effectiveness of ITGCs, based on the results of our tests of controls (ITGC reliance strategy only).\n                Consider the results of the IT-substantive testing when evaluating IT processes when we have performed IT-substantive procedures to address a risk related to an IT process. Perform the following evaluations: Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsa et laboriosam ducimus itaque cupiditate similique necessitatibus omnis natus nisi quo. Cumque nihil temporibus adipisci iure dolore officiis veritatis eos facere?\n                "
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "title": "Discuss audit strategy revisions",
+        "tasks": [
+            {
+                "_id": 100,
+                "type": "OST",
+                "discription": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Sit fugit impedit saepe autem blanditiis omnis debitis facere, eaque ab ratione nesciunt adipisci enim amet illo possimus perspiciatis voempora asperiores iusto nostrum sapiente! Temporibus eligendi amet iure ipsam perferendis.",
+                "date": "11/09/2020",
+                "customizeDiscription": "When the strategy is to rely on It processes, evaluate the results of tests of ITGCs or IT substantive procedures and make IT evaluations. Conclude on the operating effectiveness of ITGCs, based on the results of our tests of controls (ITGC reliance strategy only).\n                Consider the results of the IT-substantive testing when evaluating IT processes when we have performed IT-substantive procedures to address a risk related to an IT process. Perform the following evaluations: Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsa et laboriosam ducimus itaque cupiditate similique necessitatibus omnis natus nisi quo. Cumque nihil temporibus adipisci iure dolore officiis veritatis eos facere?\n                "
+            },
+            {
+                "_id": 200,
+                "type": "OST",
+                "discription": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Sit fugit impedit saepe autem blanditiis oab ratione nesciunt adipisci enim amet illo possimus perspiciatis voluptatum perferendis tempora asperiores iusto nostrum sapiente! Temporibus eligendi amet iure ipsam perferendis.",
+                "date": "11/09/2020",
+                "customizeDiscription": "When the strategy is to rely on It processes, evaluate the results of tests of ITGCs or IT substantive procedures and make IT evaluations. Conclude on the operating effectiveness of ITGCs, based on the results of our tests of controls (ITGC reliance strategy only).\n                Consider the results of the IT-substantive testing when evaluating IT processes when we have performed IT-substantive procedures to address a risk related to an IT process. Perform the following evaluations: Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsa et laboriosam ducimus itaque cupiditate similique necessitatibus omnis natus nisi quo. Cumque nihil temporibus adipisci iure dolore officiis veritatis eos facere?\n                "
+            },
+            {
+                "_id": 300,
+                "type": "OST",
+                "discription": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Sit fugit impedit saepe autem blanditiis omnis debitis facere, eaqores iusto nostrum sapiente! Temporibus eligendi amet iure ipsam perferendis.",
+                "date": "11/09/2020",
+                "customizeDiscription": "When the strategy is to rely on It processes, evaluate the results of tests of ITGCs or IT substantive procedures and make IT evaluations. Conclude on the operating effectiveness of ITGCs, based on the results of our tests of controls (ITGC reliance strategy only).\n                Consider the results of the IT-substantive testing when evaluating IT processes when we have performed IT-substantive procedures to address a risk related to an IT process. Perform the following evaluations: Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsa et laboriosam ducimus itaque cupiditate similique necessitatibus omnis natus nisi quo. Cumque nihil temporibus adipisci iure dolore officiis veritatis eos facere?\n                "
+            },
+            {
+                "_id": 400,
+                "type": "OST",
+                "discription": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Sit fugit impedit saepe autem blanditiis omnis debitis facere, eaqores iusto npiente! Temporibus eligendi amet iure ipsam perferendis.",
+                "date": "11/09/2020",
+                "customizeDiscription": "When the strategy is to rely on It processes, evaluate the results of tests of ITGCs or IT substantive procedures and make IT evaluations. Conclude on the operating effectiveness of ITGCs, based on the results of our tests of controls (ITGC reliance strategy only).\n                Consider the results of the IT-substantive testing when evaluating IT processes when we have performed IT-substantive procedures to address a risk related to an IT process. Perform the following evaluations: Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsa et laboriosam ducimus itaque cupiditate similique necessitatibus omnis natus nisi quo. Cumque nihil temporibus adipisci iure dolore officiis veritatis eos facere?\n                "
+            },
+            {
+                "_id": 500,
+                "type": "OST",
+                "discription": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Sit fugit impedit saepe autem blanditiis facere, eaque ab ratione nesciunt ato nostrum sapiente! emporibus eligendi amet iure ipsam perferendis.",
+                "date": "11/09/2020",
+                "customizeDiscription": "When the strategy is to rely on It processes, evaluate the results of tests of ITGCs or IT substantive procedures and make IT evaluations. Conclude on the operating effectiveness of ITGCs, based on the results of our tests of controls (ITGC reliance strategy only).\n                Consider the results of the IT-substantive testing when evaluating IT processes when we have performed IT-substantive procedures to address a risk related to an IT process. Perform the following evaluations: Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsa et laboriosam ducimus itaque cupiditate similique necessitatibus omnis natus nisi quo. Cumque nihil temporibus adipisci iure dolore officiis veritatis eos facere?\n                "
+            }
+        ]
+    },
+    {
+        "id": 5,
+        "title": "EQR procedures",
+        "tasks": [
+            {
+                "_id": 100,
+                "type": "OST",
+                "discription": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Sit fugit impedit saepe autem blanditiis omnis debitis facere, eaque ab ratione nesciunt adipisci enim amet illo possimus perspiciatis voempora asperiores iusto nostrum sapiente! Temporibus eligendi amet iure ipsam perferendis.",
+                "date": "11/09/2020",
+                "customizeDiscription": "When the strategy is to rely on It processes, evaluate the results of tests of ITGCs or IT substantive procedures and make IT evaluations. Conclude on the operating effectiveness of ITGCs, based on the results of our tests of controls (ITGC reliance strategy only).\n                Consider the results of the IT-substantive testing when evaluating IT processes when we have performed IT-substantive procedures to address a risk related to an IT process. Perform the following evaluations: Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsa et laboriosam ducimus itaque cupiditate similique necessitatibus omnis natus nisi quo. Cumque nihil temporibus adipisci iure dolore officiis veritatis eos facere?\n                "
+            }
+        ]
+    },
+    {
+        "id": 6,
+        "title": "Complete post-interim project management activities",
+        "tasks": [
+            {
+                "_id": 100,
+                "type": "OST",
+                "discription": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Sit fugit impedit saepe autem blanditiis omnis debitis facere, eaque ab ratione nesciunt adipisci enim amet illo possimus perspiciatis voempora asperiores iusto nostrum sapiente! Temporibus eligendi amet iure ipsam perferendis.",
+                "date": "11/09/2020",
+                "customizeDiscription": "When the strategy is to rely on It processes, evaluate the results of tests of ITGCs or IT substantive procedures and make IT evaluations. Conclude on the operating effectiveness of ITGCs, based on the results of our tests of controls (ITGC reliance strategy only).\n                Consider the results of the IT-substantive testing when evaluating IT processes when we have performed IT-substantive procedures to address a risk related to an IT process. Perform the following evaluations: Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsa et laboriosam ducimus itaque cupiditate similique necessitatibus omnis natus nisi quo. Cumque nihil temporibus adipisci iure dolore officiis veritatis eos facere?\n                "
+            },
+            {
+                "_id": 200,
+                "type": "OST",
+                "discription": "Sit amet consectetur adipisicing elit. Sit fugit impedit saepe autem blanditiis omnis debitis facere, eaque ab ratione nesciunt adipisci enim amet illo possimus perspiciatis voempora asperiores iusto nostrum sapiente! Temporibus eligendi amet iure ipsam perferendis.",
+                "date": "11/09/2020",
+                "customizeDiscription": "When the strategy is to rely on It processes, evaluate the results of tests of ITGCs or IT substantive procedures and make IT evaluations. Conclude on the operating effectiveness of ITGCs, based on the results of our tests of controls (ITGC reliance strategy only).\n                Consider the results of the IT-substantive testing when evaluating IT processes when we have performed IT-substantive procedures to address a risk related to an IT process. Perform the following evaluations: Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsa et laboriosam ducimus itaque cupiditate similique necessitatibus omnis natus nisi quo. Cumque nihil temporibus adipisci iure dolore officiis veritatis eos facere?\n                "
+            },
+            {
+                "_id": 300,
+                "type": "OST",
+                "discription": "Sit amet consectetur adipisicing elit. Sit fugit impedit saepe autem blanditiis omnis debitis facere, sdsdfsdfsd adf eaque ab ratione nesciunt adipisci enim amet illo possimus perspiciatis voempora asperiores iusto nostrum sapiente! Temporibus eligendi amet iure ipsam perferendis.",
+                "date": "11/09/2020",
+                "customizeDiscription": "When the strategy is to rely on It processes, evaluate the results of tests of ITGCs or IT substantive procedures and make IT evaluations. Conclude on the operating effectiveness of ITGCs, based on the results of our tests of controls (ITGC reliance strategy only).\n                Consider the results of the IT-substantive testing when evaluating IT processes when we have performed IT-substantive procedures to address a risk related to an IT process. Perform the following evaluations: Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsa et laboriosam ducimus itaque cupiditate similique necessitatibus omnis natus nisi quo. Cumque nihil temporibus adipisci iure dolore officiis veritatis eos facere?\n                "
+            }
+        ]
+    }
+]
